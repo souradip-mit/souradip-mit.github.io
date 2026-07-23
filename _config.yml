@@ -11,9 +11,9 @@ title                    : "Souradip's Homepage"
 title_separator          : "-"
 name                     : &name "Souradip Chakraborty"
 description              : &description "CS PhD student @UMD"
-url                      : https://souradip-umd.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://souradip-mit.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "souradip-umd/souradip-umd.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Souradip Chakraborty"
   avatar           : "img_soura.jpeg"
-  bio              : "CS PhD@UMD, Reinforcement Learning"
-  location         : "Maryland, College Park (USA)"
-  employer         : "University of Maryland"
+  bio              : "Postdoctoral Researcher at MIT CSAIL | Reinforcement Learning and AI Alignment"
+  location         : "Cambridge, MA (USA)"
+  employer         : "MIT CSAIL"
   dblp             : 
   googlescholar    : "https://scholar.google.co.in/citations?user=pvETm1wAAAAJ&hl=en"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "souradip-chakraborty"
+  github           : "souradip-mit"
   google_plus      :
   keybase          :
   instagram        :
