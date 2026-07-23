@@ -12,23 +12,24 @@ I am a Postdoctoral Researcher at [MIT CSAIL](https://www.csail.mit.edu/), worki
 
 I received my Ph.D. in Computer Science from the **University of Maryland, College Park**, where I was fortunate to be advised by [Prof. Furong Huang](https://furong-huang.com/) and [Prof. Dinesh Manocha](https://www.cs.umd.edu/~dm/). During my Ph.D., I had the opportunity to collaborate closely with [Prof. Mengdi Wang](https://mengdiwang.github.io/) (Princeton University), [Prof. Amrit Singh Bedi](https://amritsinghbedi.github.io/) (University of Central Florida), [Dr.Mohammad Ghavamzadeh](https://mohammadghavamzadeh.github.io/) (Qualcomm AI Research) and [Prof. Aldo Pacchiano](https://aldopacchiano.ai/) (Boston University), working on reinforcement learning, AI alignment, optimization, and decision-making under uncertainty.
 
-I have also spent time at **Google Research**, where I worked with **Alekh Agarwal**, **Rahul Kidambi**, and collaborators on reinforcement learning algorithms for long-horizon sequential decision making, with a particular emphasis on exploration, credit assignment, and efficient learning. Prior to my Ph.D., I worked as a Research Scientist at Walmart Global Tech, where I developed machine learning methods for large-scale recommendation and optimization systems.
+I have also spent time at **Google Research**, where I worked with [Alekh Agarwal](https://alekhagarwal.net/), [Rahul Kidambi](https://rahulkidambi.github.io/), and collaborators on reinforcement learning algorithms for long-horizon sequential decision making, with a particular emphasis on exploration, credit assignment, and efficient learning. Prior to my Ph.D., I worked as a Research Scientist at Walmart Global Tech, where I developed machine learning methods for large-scale recommendation and optimization systems.
 
 # Recent News
 
 - **July 2026:** Joined [MIT CSAIL](https://www.csail.mit.edu/) as a Postdoctoral Researcher working on Foresight RL for Agents
-- **May 2026:**  Released our recent work on Pedagogical RL [Blog](https://mit-oasys.github.io/essays/pedagogical-rl/), [Detailed Thread](https://x.com/SOURADIPCHAKR18/status/2055057138070733176)
-- **May 2026:** Completed my Ph.D. in Computer Science at the University of Maryland, College Park.
-- **May 2026:** Received the UMD Computer Science Certificate of Outstanding Achievement [Details](https://www.linkedin.com/posts/souradip-chakraborty_as-i-defended-my-thesis-last-week-and-successfully-activity-7455018798111166464-MoWM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAApk96EBpPXupX7HHww1bNw5FAwxS6ZznYE)
-- **2025:** Our work on inference-time alignment, **Transfer Q\***, appeared at NeurIPS 2024.
-- **2025:** Our work on pluralistic alignment, **MaxMin-RLHF**, appeared at ICML 2024.
-- **2025:** Our work **IMMUNE** studied robustness against jailbreak attacks and appeared at CVPR 2025.
-- **2024:** Our work **PARL** on distribution shift in RLHF appeared at ICLR 2024.
+- **May 2026:**  Released our recent work on Pedagogical RL [[Blog](https://mit-oasys.github.io/essays/pedagogical-rl/)], [[Detailed Thread](https://x.com/SOURADIPCHAKR18/status/2055057138070733176)]
+- **May 2026:** Completed my Ph.D. in Computer Science at the University of Maryland, College Park with [Prof. Furong Huang](https://furong-huang.com/) and [Prof. Dinesh Manocha](https://www.cs.umd.edu/~dm/) [[Details](https://www.linkedin.com/posts/souradip-chakraborty_foresightrl-pedagogicalrl-activity-7462971035768811520-Do1v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAApk96EBpPXupX7HHww1bNw5FAwxS6ZznYE)]
+- **May 2026:** Received the UMD Computer Science Certificate of Outstanding Achievement [[Details](https://www.linkedin.com/posts/souradip-chakraborty_as-i-defended-my-thesis-last-week-and-successfully-activity-7455018798111166464-MoWM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAApk96EBpPXupX7HHww1bNw5FAwxS6ZznYE)]
+- **2025:** Our work **COLLAB** studied Test-time Scaling with Mixture of Agents appeared at ICLR 2025 [[Paper](https://arxiv.org/pdf/2503.21720)]
+- **2025:** Our work **IMMUNE** studied robustness against jailbreak attacks and appeared at CVPR 2025 [[Paper](https://arxiv.org/pdf/2411.18688)]
+- **2024:** Our work on inference-time alignment, **Transfer Q\***, appeared at NeurIPS 2024 [[Paper](https://arxiv.org/abs/2405.20495)]
+- **2024:** Our work on pluralistic alignment, **MaxMin-RLHF**, appeared at ICML 2024 [[Paper](https://arxiv.org/abs/2402.08925)]
+- **2024:** Our work **PARL** on distribution shift in RLHF appeared at ICLR 2024 [[Paper](https://arxiv.org/abs/2308.02585)]
 
 
 # Selected Publications
 
-1. **IMMUNE: Provable Safety for Free with Inference Alignment**  
+1. **IMMUNE: Provable Safety Alignment Against Jailbreaks for Multi-modal LLMs**  
    **Souradip Chakraborty**, et al.  
    *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025).*  
    [[Paper](https://arxiv.org/pdf/2411.18688)] [[Detailed Thread](https://x.com/amritsinghbedi3/status/1903125613755441173)]
@@ -38,7 +39,7 @@ I have also spent time at **Google Research**, where I worked with **Alekh Agarw
    *International Conference on Learning Representations (ICLR 2025).*  
    [[Paper](https://arxiv.org/pdf/2503.21720)] [[Detailed Thread](https://x.com/SOURADIPCHAKR18/status/1891135849703604627)]
 
-3. **Transfer Q\*: Efficient Test-time Scaling and Personalization for LLM Alignment**  
+3. **Transfer Q\*: Provably Efficient Test-time Scaling and Personalization for LLM Alignment**  
    **Souradip Chakraborty**, et al.  
    *Advances in Neural Information Processing Systems (NeurIPS 2024).*  
    [[Paper](https://arxiv.org/abs/2405.20495)] [[Detailed Thread](https://x.com/furongh/status/1798003663228510675)]
