@@ -8,64 +8,65 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at [MIT CSAIL](https://www.csail.mit.edu/), working with [Prof. Omar Khattab](https://omarkhattab.com/). My current research focuses on developing the foundations of **Pedagogical Reinforcement Learning**  for AI agents—learning paradigms that enable agents to improve through interaction, feedback, and long-horizon experience rather than relying solely on large-scale supervised data. My broader vision is to build **continually learning AI agents** that can autonomously acquire new capabilities while remaining robust, efficient, and aligned with human objectives.
+I am a Postdoctoral Researcher at [MIT CSAIL](https://www.csail.mit.edu/), working with [Prof. Omar Khattab](https://omarkhattab.com/). My current research focuses on developing the foundations of **Pedagogical Reinforcement Learning**  for AI agents—learning paradigms that enable agents to improve through interaction, feedback, and long-horizon experience rather than relying solely on scalar terminal rewards. My broader vision is to build **continually learning AI agents** that can autonomously acquire new capabilities while remaining robust, efficient, and aligned with human objectives.
 
-I received my Ph.D. in Computer Science from the **University of Maryland, College Park**, where I was fortunate to be advised by [Prof. Furong Huang](https://furong-huang.com/) and [Prof. Dinesh Manocha](https://www.cs.umd.edu/~dm/). During my Ph.D., I had the opportunity to collaborate closely with [Prof. Mengdi Wang](https://mengdiwang.github.io/) (Princeton University), [Prof. Amrit Singh Bedi](https://amritsinghbedi.github.io/) (University of Central Florida), and [Prof. Aldo Pacchiano](https://aldopacchiano.ai/) (Boston University), working on reinforcement learning, AI alignment, optimization, and decision-making under uncertainty.
+I received my Ph.D. in Computer Science from the **University of Maryland, College Park**, where I was fortunate to be advised by [Prof. Furong Huang](https://furong-huang.com/) and [Prof. Dinesh Manocha](https://www.cs.umd.edu/~dm/). During my Ph.D., I had the opportunity to collaborate closely with [Prof. Mengdi Wang](https://mengdiwang.github.io/) (Princeton University), [Prof. Amrit Singh Bedi](https://amritsinghbedi.github.io/) (University of Central Florida), [Dr.Mohammad Ghavamzadeh](https://mohammadghavamzadeh.github.io/) (Qualcomm AI Research) and [Prof. Aldo Pacchiano](https://aldopacchiano.ai/) (Boston University), working on reinforcement learning, AI alignment, optimization, and decision-making under uncertainty.
 
 I have also spent time at **Google Research**, where I worked with **Alekh Agarwal**, **Rahul Kidambi**, and collaborators on reinforcement learning algorithms for long-horizon sequential decision making, with a particular emphasis on exploration, credit assignment, and efficient learning. Prior to my Ph.D., I worked as a Research Scientist at Walmart Global Tech, where I developed machine learning methods for large-scale recommendation and optimization systems.
 
 # Recent News
 
-- **July 2026:** Joined MIT CSAIL as a Postdoctoral Researcher.
-- **June 2026:** Completed my Ph.D. in Computer Science at the University of Maryland, College Park.
-- **2026:** Received the UMD Computer Science Certificate of Outstanding Achievement.
+- **July 2026:** Joined [MIT CSAIL](https://www.csail.mit.edu/) as a Postdoctoral Researcher working on Foresight RL for Agents
+- **May 2026:**  Released our recent work on Pedagogical RL [Blog](https://mit-oasys.github.io/essays/pedagogical-rl/), [Detailed Thread](https://x.com/SOURADIPCHAKR18/status/2055057138070733176)
+- **May 2026:** Completed my Ph.D. in Computer Science at the University of Maryland, College Park.
+- **May 2026:** Received the UMD Computer Science Certificate of Outstanding Achievement [Details](https://www.linkedin.com/posts/souradip-chakraborty_as-i-defended-my-thesis-last-week-and-successfully-activity-7455018798111166464-MoWM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAApk96EBpPXupX7HHww1bNw5FAwxS6ZznYE)
 - **2025:** Our work on inference-time alignment, **Transfer Q\***, appeared at NeurIPS 2024.
-- **2025:** Our work on pluralistic alignment, **MaxMin-RLHF**, appeared at ICML.
+- **2025:** Our work on pluralistic alignment, **MaxMin-RLHF**, appeared at ICML 2024.
 - **2025:** Our work **IMMUNE** studied robustness against jailbreak attacks and appeared at CVPR 2025.
 - **2024:** Our work **PARL** on distribution shift in RLHF appeared at ICLR 2024.
 
 
 # Selected Publications
 
-1. **MaxMin-RLHF: Toward Equitable Alignment of Large Language Models with Diverse Human Preferences**  
-   Souradip Chakraborty, et al.  
-   *International Conference on Machine Learning (ICML).*  
-   [Paper](PASTE-PAPER-LINK-HERE)
-
-2. **Transfer Q\*: Principled Decoding for LLM Alignment**  
-   Souradip Chakraborty, et al.  
-   *Advances in Neural Information Processing Systems (NeurIPS 2024).*  
-   [Paper](PASTE-PAPER-LINK-HERE)
-
-3. **PARL: A Unified Framework for Policy Alignment in Reinforcement Learning from Human Feedback**  
-   Souradip Chakraborty, et al.  
-   *International Conference on Learning Representations (ICLR 2024).*  
-   [Paper](https://arxiv.org/)
-
-4. **IMMUNE: Improving Model Robustness against Jailbreak Attacks**  
-   Souradip Chakraborty, et al.  
+1. **IMMUNE: Provable Safety for Free with Inference Alignment**  
+   **Souradip Chakraborty**, et al.  
    *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025).*  
-   [Paper](PASTE-PAPER-LINK-HERE)
+   [[Paper](https://arxiv.org/pdf/2411.18688)] [[Detailed Thread](https://x.com/amritsinghbedi3/status/1903125613755441173)]
 
-5. **Collab: Collaborative Learning and Alignment for Language Models**  
-   Souradip Chakraborty, et al.  
+2. **COLLAB: Test-time Scaling with Mixture of Agents**  
+   **Souradip Chakraborty**, et al.  
    *International Conference on Learning Representations (ICLR 2025).*  
-   [Paper](PASTE-PAPER-LINK-HERE)
+   [[Paper](https://arxiv.org/pdf/2503.21720)] [[Detailed Thread](https://x.com/SOURADIPCHAKR18/status/1891135849703604627)]
+
+3. **Transfer Q\*: Efficient Test-time Scaling and Personalization for LLM Alignment**  
+   **Souradip Chakraborty**, et al.  
+   *Advances in Neural Information Processing Systems (NeurIPS 2024).*  
+   [[Paper](https://arxiv.org/abs/2405.20495)] [[Detailed Thread](https://x.com/furongh/status/1798003663228510675)]
+
+4. **MaxMin-RLHF: Toward Equitable Alignment of Large Language Models with Diverse Human Preferences**  
+   **Souradip Chakraborty**, et al.  
+   *International Conference on Machine Learning (ICML 2024).*  
+   [[Paper](https://arxiv.org/abs/2402.08925)] [[Detailed Thread](https://x.com/SOURADIPCHAKR18/status/1762959709508624424)]
+
+5. **PARL: Principled Online Reinforcement Learning from Human Feedback**  
+   **Souradip Chakraborty**, et al.  
+   *International Conference on Learning Representations (ICLR 2024).*  
+   [[Paper](https://arxiv.org/abs/2308.02585)] [[Extended Version](https://arxiv.org/abs/2406.15567)] [[Tweet](https://x.com/SOURADIPCHAKR18/status/1714633066264547591)]
 
 6. **STEERING: Stein Information Directed Exploration for Model-Based Reinforcement Learning**  
-   Souradip Chakraborty, Amrit Singh Bedi, Alec Koppel, Mengdi Wang, Furong Huang, Dinesh Manocha.  
+   **Souradip Chakraborty**, Amrit Singh Bedi, Alec Koppel, Mengdi Wang, Furong Huang, Dinesh Manocha.  
    *International Conference on Machine Learning (ICML 2023).*  
-   [Paper](https://arxiv.org/)
+   [[Paper](https://arxiv.org/abs/2305.12389)]
 
 7. **Posterior Coreset Construction with Kernelized Stein Discrepancy for Model-Based Reinforcement Learning**  
-   Souradip Chakraborty, Amrit Singh Bedi, Alec Koppel, Brian M. Sadler, Furong Huang, Pratap Tokekar, Dinesh Manocha.  
-   *AAAI 2023, Oral Presentation.*  
-   [Paper](https://arxiv.org/)
+   **Souradip Chakraborty**, Amrit Singh Bedi, Alec Koppel, Brian M. Sadler, Furong Huang, Pratap Tokekar, Dinesh Manocha.  
+   *AAAI Conference on Artificial Intelligence (AAAI 2023, Oral).*  
+   [[Paper](https://arxiv.org/abs/2211.04546)]
 
 8. **Dealing with Sparse Rewards in Continuous Control Robotics via Heavy-Tailed Policy Optimization**  
-   Souradip Chakraborty, Amrit Singh Bedi, Alec Koppel, Pratap Tokekar, Dinesh Manocha.  
+   **Souradip Chakraborty**, Amrit Singh Bedi, Alec Koppel, Pratap Tokekar, Dinesh Manocha.  
    *IEEE International Conference on Robotics and Automation (ICRA 2023).*  
-   [Paper](https://arxiv.org/)
+   [[Paper](https://arxiv.org/abs/2210.15262)]
 
 For a complete publication list, see my [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=pvETm1wAAAAJ).
  
